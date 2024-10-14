@@ -1,6 +1,6 @@
 ## Hi there 👋, i ' m BISHNU GOPE 
 
-<!--
+
 **bishnu-2003/bishnu-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...bishnugope4844@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div>
+
 ![](https://leetcard.jacoblin.cool/bishnu-2003?ext=heatmap)
-</div>
+
