@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...bishnugope4844@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--![](https://leetcard.jacoblin.cool/bishnu-2003?ext=heatmap)
+<div>
+![](https://leetcard.jacoblin.cool/bishnu-2003?ext=heatmap)
+</div>
