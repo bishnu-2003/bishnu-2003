@@ -1,12 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Bishnu Gope</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu-2003&label=Profile%20views&color=0e75b6&style=flat" alt="bishnu-2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishnu-2003" alt="bishnu-2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/bishnug14024036?t=sd3dgmzlvr1m8dk9zp1goa&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/bishnug14024036?t=sd3dgmzlvr1m8dk9zp1goa&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/bishnug14024036?t=sd3dgmzlvr1m8dk9zp1goa&s=09" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 & Fullstack Development**
 
@@ -22,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/bishnug14024036?t=sd3dgmzlvr1m8dk9zp1goa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/bishnug14024036?t=sd3dgmzlvr1m8dk9zp1goa&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/bishnug14024036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/bishnug14024036" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bishnu-gope-768089285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bishnu-gope-768089285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishnu-2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishnu-2003" height="30" width="40" /></a>
 </p>
@@ -35,6 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu-2003&show_icons=true&locale=en" alt="bishnu-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnu-2003&" alt="bishnu-2003" /></p>
+
+
 
 
 ![](https://leetcard.jacoblin.cool/bishnu-2003?ext=heatmap)
