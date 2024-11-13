@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **bishnugope4844@gmail.com**
+- 📫 How to reach me **karangope.dev@gmail.com**
 
 - ⚡ Fun fact **i build and break stuff**
 
