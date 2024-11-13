@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **100xDEVS**
 
-- 👯 I’m looking to collaborate on **Solana Devs ,Fullstack Devs**
+- 👯 I’m looking to collaborate on **Fullstack Devs, Solana devs**
 
 - 💬 Ask me about **Javascript**
 
