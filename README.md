@@ -20,11 +20,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishnu-2003&show_icons=true&locale=en&layout=compact" alt="bishnu-2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu-2003&show_icons=true&locale=en" alt="bishnu-2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnu-2003&" alt="bishnu-2003" /></p>
-
-![](https://leetcard.jacoblin.cool/bishnu-2003?ext=heatmap)
 
