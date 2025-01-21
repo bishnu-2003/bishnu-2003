@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web3 & Fullstack Development**
 
-- 🌱 I’m currently learning **100xDEVS**
+- 🌱 I’m currently learning **FULLSTACK DEVLOPMENT & BLOCKCHAINS**
 
 - 👯 I’m looking to collaborate on **Fullstack Devs, Solana devs**
 
