@@ -14,6 +14,7 @@
 - 📫 How to reach me **karangope.dev@gmail.com**
 
 - ⚡ Fun fact **i build and break stuff**
+- always i work on private repos hahaha, you cant see mee 
 
 
 
